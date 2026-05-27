@@ -8,10 +8,6 @@ python 5_report.py
 # Check outputs
 ls -la *.csv *.pkl *.png *.md
 
-# Launch results notebook (optional)
-jupyter notebook exploration.ipynb
-
-    Expected Outputs:
 labeled_patients.csv – Patients with heart disease labels
 
 heart_features.csv – Feature matrix
