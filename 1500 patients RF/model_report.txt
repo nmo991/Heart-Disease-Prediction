@@ -1,0 +1,19 @@
+HEART DISEASE PREDICTION MODEL REPORT
+==================================================
+
+Dataset Size: 1680 patients
+Heart Disease Prevalence: 19.0%
+
+MODEL PERFORMANCE:
+- Accuracy:  0.977
+- Precision: 0.958
+- Recall:    0.918
+- F1-Score:  0.938
+- AUC-ROC:   0.996
+
+TOP 5 FEATURES:
+- age: 0.322
+- condition_count: 0.140
+- medication_count: 0.138
+- blood pressure_diastolic: 0.076
+- hba1c: 0.066

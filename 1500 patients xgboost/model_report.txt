@@ -1,0 +1,19 @@
+XG Boost
+==================================================
+
+Dataset Size: 1680 patients
+Heart Disease Prevalence: 19.0%
+
+MODEL PERFORMANCE:
+- Accuracy:  0.979
+- Precision: 0.952
+- Recall:    0.934
+- F1-Score:  0.943
+- AUC-ROC:   0.992
+
+TOP 5 FEATURES:
+- age: 0.410
+- blood pressure_diastolic: 0.093
+- is_male: 0.073
+- hba1c: 0.073
+- medication_count: 0.065
